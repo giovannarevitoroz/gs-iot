@@ -1,6 +1,8 @@
 # Synapse - API - Global Solution  
 ### DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA
 
+Link vídeo:  https://youtu.be/mHp7ao4INg0
+
 ## 👩‍💻 Integrantes
 
 - Giovanna Revito Roz - RM558981
