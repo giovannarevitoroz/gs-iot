@@ -1,4 +1,3 @@
-
 # Synapse - API - Global Solution  
 ### DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA
 
